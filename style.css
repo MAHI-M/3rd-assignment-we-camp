@@ -1,0 +1,49 @@
+body{
+  background-image: url(pic3.jpg);
+
+}
+#slider{
+  background-image: url(pic1.jpg);
+  background-size: cover;
+  background-position: relative;
+  height:250px;
+
+}
+#slider h1{
+  color:white;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 80px;
+}
+.card-body{
+  color:white;
+}
+#abc{
+  float:right;
+  padding-top: 70px;
+  font-weight: lighter;
+}
+
+#def{
+  float:left;
+  color:white;
+  padding-top:20px;
+  padding-left: 80px;
+  padding-bottom: 30px;
+  margin-top: 50px;
+}
+#result{
+  display:none;
+}
+
+#foot p{
+  color:white;
+  font-size: 30px;
+  text-align:left ;
+  padding-top: 250px;
+}
+#foot img{
+
+ float: right;
+  padding-top:250px ;
+}
