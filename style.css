@@ -1,7 +1,9 @@
+/* body starts here */
 body{
   background-image: url(pic3.jpg);
 
 }
+/* header starts here */
 #slider{
   background-image: url(pic1.jpg);
   background-size: cover;
@@ -15,6 +17,10 @@ body{
   text-align: center;
   padding-top: 80px;
 }
+/* header ends here */
+
+/* game-area starts here */
+
 .card-body{
   color:white;
 }
@@ -35,6 +41,9 @@ body{
 #result{
   display:none;
 }
+/* game-area ends here */
+
+/* footer starts here */
 
 #foot p{
   color:white;
@@ -47,3 +56,5 @@ body{
  float: right;
   padding-top:250px ;
 }
+/* footer ends here */
+/* body ends here */
