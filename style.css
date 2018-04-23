@@ -9,7 +9,8 @@ body{
   background-size: cover;
   background-position: relative;
   height:250px;
-
+  box-shadow: 6px 10px #7E2E0D;
+  border-radius: 15px;
 }
 #slider h1{
   color:white;
@@ -37,6 +38,8 @@ body{
   padding-left: 80px;
   padding-bottom: 30px;
   margin-top: 50px;
+  box-shadow: 5px 10px  #7E2E0D;
+  border-radius: 15px;
 }
 #result{
   display:none;
